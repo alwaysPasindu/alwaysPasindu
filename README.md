@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pasindu Dilshan</h1>
+<h1 align="center">Hello 👋, I'm Pasindu Dilshan</h1>
 <h3 align="center">I'm a Undergraduate Computer Science student at IIT Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alwayspasindu&label=Profile%20views&color=0e75b6&style=flat" alt="alwayspasindu" /> </p>
