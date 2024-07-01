@@ -10,7 +10,7 @@
   
 - 🌱 I’m currently learning **Python, Java, Javascript, HTML and CSS**
 
-- 📫 How to reach me **always.pasindu@gmail.com**
+- 📫 How to reach me **<a href="mailto:pasindu.20230294@iit.ac.lk">Pasindu.20230294@iit.ac.lk </a>**
 
 - ⚡ Fun fact **I think I'm a Overthinker**
 
@@ -86,6 +86,5 @@
 <a href="https://www.instagram.com/always.pasindu?igsh=MWoweTJkcmR1bm8xYQ=="><img src="https://img.shields.io/badge/-always.pasindu-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://x.com/alwaysPasindu?s=09"><img src="https://img.shields.io/badge/-alwaysPasindu-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
-
 
 
