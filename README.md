@@ -77,7 +77,7 @@
 <p  align="center">
 
 
-### :link: &nbsp;Connect with me
+### :link: &nbsp;Connect with me!
 
 <p align="center">
 <a href="pasindu.live"><img src="https://img.shields.io/badge/-Pasindu.live-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
