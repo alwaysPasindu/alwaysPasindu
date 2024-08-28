@@ -80,7 +80,7 @@
 ### :link: &nbsp;Connect with me!
 
 <p align="center">
-<a href="pasindu.live"><img src="https://img.shields.io/badge/-Pasindu.live-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.pasindu.live"><img src="https://img.shields.io/badge/-Pasindu.live-3423A6?style=for-the-badge&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/pasindu-dilshan-929865269/"><img src="https://img.shields.io/badge/-Pasindu%20Dilshan-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:pasindu.20230294@iit.ac.lk"><img src="https://img.shields.io/badge/-Pasindu.20230294@iit.ac.lk-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/always.pasindu?igsh=MWoweTJkcmR1bm8xYQ=="><img src="https://img.shields.io/badge/-always.pasindu-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
