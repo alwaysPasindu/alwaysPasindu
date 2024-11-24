@@ -8,7 +8,7 @@
 <tr border="none">
 <td width="50%" align="left">
   
-- 🌱 I’m currently learning ** Java, OOP, Javascript, React, Node JS, Flutter**
+- 🌱 I’m currently learning **Java, OOP, Javascript, React, Node JS, Flutter**
 
 - 📫 How to reach me **<a href="mailto:pasindu.20230294@iit.ac.lk">Pasindu.20230294@iit.ac.lk </a>**
 
